@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leandro Alan Kim</h1>
-<h3 align="center">A Georgia Institute of Technology Computer Engineering graduate with a focus on distributed systems, software design, and information. I am passionate about embedded systems and robotics, and I am always excited to bridge the gap between hardware and software to create intelligent solutions.</h3>
+<h3 align="center">A Georgia Institute of Technology Computer Engineering graduate with a focus on distributed systems, software design, and information. I am passionate about embedded systems and I am always excited to bridge the gap between hardware and software to create intelligent solutions.</h3>
 
 - 🔭 I’m currently working on [Autonomous GT Campus Navigation Drone](https://expo.gatech.edu/storage/servlet/Image?c=17462&fileName=6013341404511130906.jpg&contentType=image%2Fjpeg)
 
