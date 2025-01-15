@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Autonomous GT Campus Navigation Drone](https://expo.gatech.edu/storage/servlet/Image?c=17462&fileName=6013341404511130906.jpg&contentType=image%2Fjpeg)
 
-- 👨‍💻 All of my projects are available at [https://github.com/lkim94gatech?tab=projects](https://github.com/lkim94gatech?tab=projects)
+- 👨‍💻 All of my projects are available at [[https://github.com/lkim94gatech?tab=projects](https://github.com/lkim94gatech?tab=projects](https://github.com/lkim94gatech?tab=repositories))
 
 - 📫 How to reach me **alan_kim2003@hotmail.com**
 
